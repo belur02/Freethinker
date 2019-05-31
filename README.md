@@ -9,7 +9,7 @@
 <p align="center">
   Rationalist, Scientific tempered and skeptic mind.
   <br>
-  <a href="https://getbootstrap.com/docs/4.3/"><strong>Explore all articles »</strong></a>
+  <a href="https://github.com/belur02/Freethinker/docs/4.3/"><strong>Explore all articles »</strong></a>
   <br>
   <br>
   <a href="https://github.com/twbs/bootstrap/issues/new?template=bug.md">Report bug</a>
