@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://venky.neocities.org/">
-    <img src="https://commons.wikimedia.org/wiki/File:NYCS-bull-trans-F.svg" alt="Bootstrap logo" width="72" height="72">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/NYCS-bull-trans-F.svg" alt="Bootstrap logo" width="72" height="72">
   </a>
 </p>
 
